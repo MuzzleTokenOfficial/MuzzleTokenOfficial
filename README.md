@@ -4,6 +4,14 @@ Official GitHub of MuzzleToken (MUZZ), an ERC-20 utility token on Ethereum, laun
 
 MUZZ is the utility token of an ecosystem that includes [MuzzSnap](https://muzzsnap.com), developed by Ryashu and Itzuki Arata, and [MuzzGalaxy](https://www.muzzgalaxy.com), developed by BorincanoPR. The project is community-run.
 
+## Latest news
+
+**MuzzSnap update coming soon** (27 November 2026)
+MuzzSnap is approaching an update that will change the way it operates. The code is already in its final stage.
+— Itzuki & Ryashu
+
+[Read the announcement](https://github.com/MuzzleTokenOfficial/MuzzleTokenOfficial/issues/1)
+
 ## Repositories
 
 - [muzzletoken-contract](https://github.com/MuzzleTokenOfficial/muzzletoken-contract) — verified source of the MUZZ token contract
