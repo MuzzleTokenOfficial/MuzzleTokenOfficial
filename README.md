@@ -23,6 +23,7 @@ MuzzSnap is approaching an update that will change the way it operates. The code
 - MuzzGalaxy: [www.muzzgalaxy.com](https://www.muzzgalaxy.com)
 - X: [x.com/MuzzleToken](https://x.com/MuzzleToken)
 - Telegram: [t.me/MuzzSnap](https://t.me/MuzzSnap)
+- YouTube (by Esteban): [youtube.com/@MuzzleHolders](https://www.youtube.com/@MuzzleHolders)
 - Etherscan: [0xef3dAa5fDa8Ad7aabFF4658f1F78061fd626B8f0](https://etherscan.io/token/0xef3dAa5fDa8Ad7aabFF4658f1F78061fd626B8f0)
 - CoinMarketCap: [MuzzleToken](https://coinmarketcap.com/currencies/muzzletoken/)
 - CoinGecko: [MUZZLE](https://www.coingecko.com/en/coins/muzzle)
